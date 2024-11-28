@@ -24,7 +24,7 @@
 
 ​	选择 ---> Other general-purpose OS ---> ubuntu24.10 
 
-![image-20241128181109009](/Users/x_lin/Library/Application Support/typora-user-images/image-20241128181109009.png)
+![image-20241128181109009](./image-20241128181109009.png)
 
 
 
